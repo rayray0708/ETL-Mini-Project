@@ -1,4 +1,4 @@
-# Project2
+# ETL mini project
 ![Illustration of Crowdfunding](https://knowledge.skema.edu/wp-content/uploads/2020/10/shutterstock_1356273047-2048x1365.jpg")
 ## Description
 For the ETL mini project, we will be working in a group of 3 members to practise building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transform the data, we'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, we’ll upload the CSV file data into a Postgres database.
